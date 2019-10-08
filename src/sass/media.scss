@@ -1,0 +1,31 @@
+// Large
+@media (max-width: 1199px) {
+  .form {
+    width: 36vw;
+    height: 78vh;
+  }
+}
+
+// Medium
+@media (max-width: 991px) {
+  .form {
+    width: 46vw;
+    height: 84vh;
+  }
+}
+
+// Small
+@media (max-width: 767px) {
+  .form {
+    width: 64vw;
+    height: 84vh;
+  }
+}
+
+// Extra small
+@media (max-width: 575px) {
+  .form {
+    width: 100vw;
+    height: 100vh;
+  }
+}

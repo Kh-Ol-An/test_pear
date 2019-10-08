@@ -1,4 +1,16 @@
 /*
    Import partials below
 */
+
+// reset
 @import './normalize';
+@import './reset';
+@import './base';
+
+// helpers
+@import './helpers/constants';
+@import './helpers/placeholders';
+
+// components
+@import './components/form';
+@import './media';
